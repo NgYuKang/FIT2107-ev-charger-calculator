@@ -1,4 +1,10 @@
-# FIT2107_S2_2021
+# FIT2107_S2_2021 EV Charger Calculator
+
+This is the project I've done with other group members in the unit FIT2107 - Software Quality and Testing.
+This project is part of the assignment to implement a simple calculator to calculate fees for charging according to type of charger and time of day.
+This project was focused on the testing part, with the skeleton flask app code provided by the teaching team.
+
+Below is the original readme provided to setup the project.
 
 ## Setting up and running the project via the terminal
 
